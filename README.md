@@ -1,5 +1,9 @@
 # Moments
 
+Project Moments - is a reinterpretation of instagram and blog, where you share images and interact with others.
+In this Project it is possible to insert images, comments, change images and comments, delete an entire post.
+This is a fullstack project, The project consumes an api to initialize its database. (https://github.com/marcofavero3/ApiAdonisJS-SQLite)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
