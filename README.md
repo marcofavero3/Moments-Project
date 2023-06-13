@@ -10,7 +10,8 @@ Plugins Used - FortAwesome (angular icon pack)
 Framework Used - AdonisJS - SQLite
 API LINK > (https://github.com/marcofavero3/ApiAdonisJS-SQLite)
 
-If you need to install AdonisJS - npm install
+First you need to install Node Modules to start the project - `npm install`
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
