@@ -2,7 +2,15 @@
 
 Project Moments - is a reinterpretation of instagram and blog, where you share images and interact with others.
 In this Project it is possible to insert images, comments, change images and comments, delete an entire post.
-This is a fullstack project, The project consumes an api to initialize its database. (https://github.com/marcofavero3/ApiAdonisJS-SQLite)
+System message working in "create", "edit" and "delete", every moment you initialize a crud a system message will show what you have done.
+Inserted search system, you use it to search in the home tab.
+This is a fullstack project, The project consumes an api to initialize its database.
+
+Plugins Used - FortAwesome (angular icon pack)
+Framework Used - AdonisJS - SQLite
+API LINK > (https://github.com/marcofavero3/ApiAdonisJS-SQLite)
+
+If you need to install AdonisJS - npm install
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
